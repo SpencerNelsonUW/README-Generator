@@ -1,31 +1,31 @@
 
-  #ReadMe-Generator
+  # ReadMe-Generator
 
-  ##Description
+  ## Description
   This app will help the user create a well formatted ReadMe easily.
 
-  ##Table of Contents
+  ## Table of Contents
   - [Description](#description)
   - [Installation](#installation)
   - [Usage](#usage)
-  - [Licesnse](#license)
+  - [License](#license)
   - [Contributors](#contributors)
   - [Tests](#tests)
   - [Questions](#questions)
 
-  ##Installation
+  ## Installation
   clone the repo and open it in VS Code.
 
-  ##Usage
+  ## Usage
   Here is a link to how this App should be used - https://drive.google.com/file/d/1Exw03XdhbxQB63cYz1ITgYuShKdyY_ZS/view.
 
-  ##License
+  ## License
   Creative Commons Zero v1.0
 
-  ##Contributors
+  ## Contributors
   This application was created by Spencer Nelson
 
-  ##Tests
+  ## Tests
   None
 
   ##Questions
